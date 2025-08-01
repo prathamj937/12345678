@@ -10,3 +10,4 @@ numpy
 striprtf
 streamlit
 plotly
+textstat
