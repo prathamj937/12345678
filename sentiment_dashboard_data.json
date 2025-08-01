@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Tesla Inc.",
+    "location": {
+      "city": "City",
+      "state": "State",
+      "latitude": 34.4233,
+      "longitude": -111.8864
+    },
+    "bankruptcy_date": "2023-01-19",
+    "document_sentiment": "Negative",
+    "overall_score": -0.3081,
+    "total_sentences": 198,
+    "sentiment_distribution": {
+      "Positive": 58,
+      "Neutral": 21,
+      "Negative": 119
+    },
+    "positive_words": {
+      "GROWTH": 5,
+      "PROFIT": 1
+    },
+    "negative_words": {
+      "LOSS": 3,
+      "DECREASE": 2
+    },
+    "uncertainty_words": {
+      "MAY": 1,
+      "ESTIMATED": 2
+    }
+  },
+  {
+    "bankruptcy_date": "2023-06-02",
+    "company": "Amazon.com Inc.",
+    "document_sentiment": "Negative",
+    "location": {
+      "city": "City",
+      "state": "State",
+      "latitude": 32.5911,
+      "longitude": -119.7932
+    },
+    "negative_words": {
+      "LOSS": 1,
+      "DECREASE": 3
+    },
+    "overall_score": -0.0902,
+    "positive_words": {
+      "GROWTH": 1,
+      "PROFIT": 4
+    },
+    "sentiment_distribution": {
+      "Positive": 28,
+      "Neutral": 65,
+      "Negative": 40
+    },
+    "total_sentences": 133
+  }
+]

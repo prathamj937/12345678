@@ -1,0 +1,12 @@
+torch
+matplotlib
+seaborn
+wordcloud   
+nltk
+transformers
+sentence-transformers
+pandas
+numpy   
+striprtf
+streamlit
+plotly

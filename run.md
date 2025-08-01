@@ -1,0 +1,1 @@
+# termiinal : pip install -r requirements.txt
