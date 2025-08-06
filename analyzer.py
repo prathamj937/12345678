@@ -15,7 +15,7 @@ warnings.filterwarnings('ignore')
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt')
+    nltk.download('punkt_tab')
 
 try:
     nltk.data.find('corpora/stopwords')
@@ -873,3 +873,4 @@ if __name__ == "__main__":
         print("\n✅ Bankruptcy-Aware FinBERT Sentiment Analyzer is ready!")
         print("🎯 Optimized to classify negative companies accurately")
         print("📚 Use analyzer.analyze_text(your_mda_text) to analyze your 10-K sections.")
+
